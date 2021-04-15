@@ -1,0 +1,4 @@
+{
+    "LOG_FILE_PATH": "trace.log",
+    "PORT": "3307"
+}
